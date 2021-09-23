@@ -21,8 +21,8 @@
   ```
   git push vase_jmeno master
   ```
-* Na stránkách původního repozitáře nebo na stránkách Vašeho repozitáře se nahoře objeví možnost <kbd>Compare & pull request</kbd>.
-  Klikněte na ni, zkontrolujte popisek změny a pull request potvrďte.
+* Na stránce Vašeho repozitáře se nahoře objeví možnost <kbd>Contribute</kbd> a po rozkliknutí <kbd>Open pull request</kbd>.
+  Otevřete tedy nový pull request, zkontrolujte popisek změny a pull request potvrďte <kbd>Create pull request</kbd>.
 * V případě, že autor repozitáře změny přijme, provede jejich začlenění do původního repozitáře.
   Stáhněte si aktuální verzi repozitáře.
   ```
